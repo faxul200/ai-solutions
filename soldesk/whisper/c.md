@@ -17,3 +17,7 @@ ffmpeg.exe
 
 Run SQL Command Line
 오라클system.txt
+
+시스템 환경변수
+path
+C:\LLM\setup\oracle\instantclient_19_24
