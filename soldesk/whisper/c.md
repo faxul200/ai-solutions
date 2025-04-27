@@ -2,4 +2,8 @@
 ffmpeg.exe 시스템 환경변수에 추가
 ffmpeg -i kimchi.mp4 -vn -acodec libmp3lame -b:a 64k kimchi.mp3
 
+시스템 환경변수
+path 
+C:\LLM\setup\whisper
+
 
