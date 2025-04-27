@@ -6,4 +6,8 @@ ffmpeg -i kimchi.mp4 -vn -acodec libmp3lame -b:a 64k kimchi.mp3
 path 
 C:\LLM\setup\whisper
 
+ffmpeg.exe
+자료실에 있어
+
+
 
