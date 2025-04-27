@@ -15,3 +15,5 @@ ffmpeg.exe
 
 
 
+Run SQL Command Line
+오라클system.txt
