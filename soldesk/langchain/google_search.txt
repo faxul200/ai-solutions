@@ -3,3 +3,6 @@ google_search_id.txt
 
 google_search_api_key.txt
 AIzaSyCAug-fV39WgiuiPv5_h0JxcB67Uby9DRU
+
+
+https://59e9180c1a3a8c3e00.gradio.live/
